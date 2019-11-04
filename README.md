@@ -23,4 +23,6 @@ La actividad ha sido realizada de manera individual por: Nadia Sánchez.
 
 **csv**: fichero csv con los datos.
 
-**imágenes**: conjunto de imágenes (fotos de plantas) en formato jpeg   
+**imágenes**: conjunto ejemplo de imágenes (fotos de plantas) en formato jpg.
+
+**imagenes.rar**: conjunto completo de imagénes.
