@@ -1,6 +1,6 @@
 # nsanchezpo-Plants-Class
 
-* # **Tipología y ciclo de vida de los datos **
+# *Tipología y ciclo de vida de los datos*
 ***
 04/11/2019
 
